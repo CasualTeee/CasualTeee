@@ -31,6 +31,5 @@ I’m a AWS Cloud Engineer with hands-on experience in cloud infrastructure, aut
 ## 📫 Get in Touch
 - LinkedIn: www.linkedin.com/in/tiarahud
 - Email: thudson205@gmail.com
-m currently working on ...
 
 
